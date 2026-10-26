@@ -1,0 +1,15 @@
+# 统一换行符，避免 macOS / Windows 互相污染
+* text=auto eol=lf
+
+# 脚本保留可执行位
+*.sh text eol=lf
+
+# 二进制
+*.png binary
+*.docx binary
+*.xlsx binary
+*.jsonl binary
+
+# 中文文档按文本处理（便于 diff）
+*.md text eol=lf
+*.csv text eol=lf

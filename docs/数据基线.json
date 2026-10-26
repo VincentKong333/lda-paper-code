@@ -1,0 +1,40 @@
+{
+  "by_board": {
+    "从化区": 237,
+    "南沙区": 546,
+    "增城区": 1039,
+    "天河区": 566,
+    "广州市委书记": 1813,
+    "广州市市长": 1290,
+    "海珠区": 626,
+    "番禺区": 1176,
+    "白云区": 791,
+    "花都区": 674,
+    "荔湾区": 326,
+    "越秀区": 177,
+    "黄埔区": 921
+  },
+  "bytes": 18290884,
+  "date_max": "2026-08-31 21:13:59",
+  "date_min": "2024-10-01 08:40:32",
+  "delay_mean": 51.01,
+  "delay_median": 39.05,
+  "dup_tid": 0,
+  "file": "collected_all13_20260914.jsonl",
+  "missing": {
+    "content": 0,
+    "create_date": 0,
+    "domain_name": 0,
+    "reply_content": 1004,
+    "reply_delay_days": 1004,
+    "state_info": 0,
+    "subject": 0,
+    "type_name": 0
+  },
+  "out_of_window": 0,
+  "records": 10182,
+  "replied": 9178,
+  "reply_rate_pct": 90.14,
+  "sha256": "64c623b2b9885c256f4ee278b7576d2f94c44d220ed215fab9ed353845099bda",
+  "unique_tid": 10182
+}
